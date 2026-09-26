@@ -1,0 +1,9 @@
+name: Chess Clock
+author: 0xSoul24
+description: Two-player chess clock. A white or black king slides in for the side to move, with Fischer increments, low-time beeps and a flag alarm. Played with the buttons and wheel.
+tags:
+  - clock
+  - game
+  - chess
+  - timer
+preview: ./preview.gif
